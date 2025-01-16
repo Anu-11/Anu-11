@@ -27,4 +27,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anu-11&show_icons=true&locale=en" alt="anu-11" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anu-11&" alt="anu-11" /></p>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anu-11&theme=algolia" alt="GitHub Streak" />
+</a>
+
+
